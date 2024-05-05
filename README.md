@@ -20,6 +20,7 @@ JAVA, Python, SQL, C++
 
 
 ## Screenshots
+![image](https://github.com/ShivamBari2728/Emergency-SOS-Application/assets/68389152/8a51b4fb-9b88-4da9-b8d0-92ef5c0a43b8)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
