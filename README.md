@@ -5,6 +5,9 @@
 ## 🚀 About Me
 I'm a BSc IT graduate form Mumbai University.
 
+## 🛠 Skills
+JAVA, Python, SQL, C++ , Android development
+
 
 # Emergency SOS Application
 
@@ -15,8 +18,7 @@ This Application also supports safe driving mechanism , app tracks users locatio
 This Application is build using JAVA as its programming language.
 
 
-## 🛠 Skills
-JAVA, Python, SQL, C++ 
+
 
 
 ## Screenshots
