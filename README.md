@@ -22,7 +22,12 @@ This Application is build using JAVA as its programming language.
 
 
 ## Screenshots
-![image](https://github.com/ShivamBari2728/Emergency-SOS-Application/assets/68389152/8a51b4fb-9b88-4da9-b8d0-92ef5c0a43b8)
+![registration Page](https://github.com/ShivamBari2728/Emergency-SOS-Application/assets/68389152/231ddaf9-6fbc-4697-a1f7-a771f0fe0990)
+
+![Home Page](https://github.com/ShivamBari2728/Emergency-SOS-Application/assets/68389152/8a51b4fb-9b88-4da9-b8d0-92ef5c0a43b8)
+
+![Riding Page](https://github.com/ShivamBari2728/Emergency-SOS-Application/assets/68389152/0eb01b79-43b6-4b97-a39d-15544efc9707)
+
 
 
 
